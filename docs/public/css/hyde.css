@@ -81,8 +81,9 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "PT Sans Narrow";
-  font-size: 2.25rem;
+  font-size: 3rem;
   font-weight: normal;
+  text-align: center;
 }
 
 /* Sidebar nav */
