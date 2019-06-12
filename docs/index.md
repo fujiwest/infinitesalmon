@@ -9,4 +9,7 @@ There are aspects about life as an academic and a scientist which are unpleasant
 [Post List]({{ link post-list.md}})
 
 {{ site.url }}
+
 {{ site.baseurl }}
+
+{{ link post-list.md }}
